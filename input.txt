@@ -1,0 +1,6 @@
+Praha|CZ|1
+Brno|CZ|1
+Ostrava|CZ|1
+Berlin|DE|2
+Berlin|DE|2z
+Náchod|CZ|4
